@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Rider/IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# .NET
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# EF Migrations
+Migrations/
+
+# Local env
+.env
